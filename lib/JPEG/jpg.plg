@@ -1,0 +1,327 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: jpg - Win32 DebugUnicode--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\XPMUser\LOCALS~1\Temp\RSP13.tmp" with contents
+[
+/nologo /MLd /W3 /GX /Z7 /Od /I ".\\" /I ".\Jpegsrc6" /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_UNICODE" /D "UNICODE" /D "_LIB" /FR"jpg___Win32_DebugUnicode/" /Fp"jpg___Win32_DebugUnicode/jpg.pch" /YX /Fo"jpg___Win32_DebugUnicode/" /Fd"jpg___Win32_DebugUnicode/" /FD /c 
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCAPIMIN.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCAPISTD.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCCOEFCT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCCOLOR.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCDCTMGR.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCHUFF.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCINIT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCMAINCT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCMARKER.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCMASTER.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCOMAPI.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCPARAM.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCPHUFF.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCPREPCT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCSAMPLE.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCTRANS.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDAPIMIN.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDAPISTD.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDATADST.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDATASRC.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDCOEFCT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDCOLOR.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDDCTMGR.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDHUFF.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDINPUT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDMAINCT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDMARKER.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDMASTER.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDMERGE.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDPHUFF.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDPOSTCT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDSAMPLE.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDTRANS.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JERROR.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JFDCTFLT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JFDCTFST.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JFDCTINT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JIDCTFLT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JIDCTFST.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JIDCTINT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JIDCTRED.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JMEMMGR.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JMEMNOBS.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JQUANT1.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JQUANT2.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JUTILS.C"
+]
+Creating command line "cl.exe @C:\DOCUME~1\XPMUser\LOCALS~1\Temp\RSP13.tmp" 
+Creating temporary file "C:\DOCUME~1\XPMUser\LOCALS~1\Temp\RSP14.tmp" with contents
+[
+/nologo /out:"..\libs\jpgdu.lib" 
+".\jpg___Win32_DebugUnicode\JCAPIMIN.OBJ"
+".\jpg___Win32_DebugUnicode\JCAPISTD.OBJ"
+".\jpg___Win32_DebugUnicode\JCCOEFCT.OBJ"
+".\jpg___Win32_DebugUnicode\JCCOLOR.OBJ"
+".\jpg___Win32_DebugUnicode\JCDCTMGR.OBJ"
+".\jpg___Win32_DebugUnicode\JCHUFF.OBJ"
+".\jpg___Win32_DebugUnicode\JCINIT.OBJ"
+".\jpg___Win32_DebugUnicode\JCMAINCT.OBJ"
+".\jpg___Win32_DebugUnicode\JCMARKER.OBJ"
+".\jpg___Win32_DebugUnicode\JCMASTER.OBJ"
+".\jpg___Win32_DebugUnicode\JCOMAPI.OBJ"
+".\jpg___Win32_DebugUnicode\JCPARAM.OBJ"
+".\jpg___Win32_DebugUnicode\JCPHUFF.OBJ"
+".\jpg___Win32_DebugUnicode\JCPREPCT.OBJ"
+".\jpg___Win32_DebugUnicode\JCSAMPLE.OBJ"
+".\jpg___Win32_DebugUnicode\JCTRANS.OBJ"
+".\jpg___Win32_DebugUnicode\JDAPIMIN.OBJ"
+".\jpg___Win32_DebugUnicode\JDAPISTD.OBJ"
+".\jpg___Win32_DebugUnicode\JDATADST.OBJ"
+".\jpg___Win32_DebugUnicode\JDATASRC.OBJ"
+".\jpg___Win32_DebugUnicode\JDCOEFCT.OBJ"
+".\jpg___Win32_DebugUnicode\JDCOLOR.OBJ"
+".\jpg___Win32_DebugUnicode\JDDCTMGR.OBJ"
+".\jpg___Win32_DebugUnicode\JDHUFF.OBJ"
+".\jpg___Win32_DebugUnicode\JDINPUT.OBJ"
+".\jpg___Win32_DebugUnicode\JDMAINCT.OBJ"
+".\jpg___Win32_DebugUnicode\JDMARKER.OBJ"
+".\jpg___Win32_DebugUnicode\JDMASTER.OBJ"
+".\jpg___Win32_DebugUnicode\JDMERGE.OBJ"
+".\jpg___Win32_DebugUnicode\JDPHUFF.OBJ"
+".\jpg___Win32_DebugUnicode\JDPOSTCT.OBJ"
+".\jpg___Win32_DebugUnicode\JDSAMPLE.OBJ"
+".\jpg___Win32_DebugUnicode\JDTRANS.OBJ"
+".\jpg___Win32_DebugUnicode\JERROR.OBJ"
+".\jpg___Win32_DebugUnicode\JFDCTFLT.OBJ"
+".\jpg___Win32_DebugUnicode\JFDCTFST.OBJ"
+".\jpg___Win32_DebugUnicode\JFDCTINT.OBJ"
+".\jpg___Win32_DebugUnicode\JIDCTFLT.OBJ"
+".\jpg___Win32_DebugUnicode\JIDCTFST.OBJ"
+".\jpg___Win32_DebugUnicode\JIDCTINT.OBJ"
+".\jpg___Win32_DebugUnicode\JIDCTRED.OBJ"
+".\jpg___Win32_DebugUnicode\JMEMMGR.OBJ"
+".\jpg___Win32_DebugUnicode\JMEMNOBS.OBJ"
+".\jpg___Win32_DebugUnicode\JQUANT1.OBJ"
+".\jpg___Win32_DebugUnicode\JQUANT2.OBJ"
+".\jpg___Win32_DebugUnicode\JUTILS.OBJ"
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\XPMUser\LOCALS~1\Temp\RSP14.tmp"
+<h3>Output Window</h3>
+Compiling...
+JCAPIMIN.C
+JCAPISTD.C
+JCCOEFCT.C
+JCCOLOR.C
+JCDCTMGR.C
+JCHUFF.C
+JCINIT.C
+JCMAINCT.C
+JCMARKER.C
+JCMASTER.C
+JCOMAPI.C
+JCPARAM.C
+JCPHUFF.C
+JCPREPCT.C
+JCSAMPLE.C
+JCTRANS.C
+JDAPIMIN.C
+JDAPISTD.C
+JDATADST.C
+JDATASRC.C
+JDCOEFCT.C
+JDCOLOR.C
+JDDCTMGR.C
+JDHUFF.C
+JDINPUT.C
+JDMAINCT.C
+JDMARKER.C
+JDMASTER.C
+JDMERGE.C
+JDPHUFF.C
+JDPOSTCT.C
+JDSAMPLE.C
+JDTRANS.C
+JERROR.C
+JFDCTFLT.C
+JFDCTFST.C
+JFDCTINT.C
+JIDCTFLT.C
+JIDCTFST.C
+JIDCTINT.C
+JIDCTRED.C
+JMEMMGR.C
+JMEMNOBS.C
+JQUANT1.C
+JQUANT2.C
+JUTILS.C
+Creating library...
+
+
+
+<h3>Results</h3>
+jpgdu.lib - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: jpg - Win32 ReleaseUnicode--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\XPMUser\LOCALS~1\Temp\RSP15.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /I ".\\" /I ".\Jpegsrc6" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_UNICODE" /D "UNICODE" /D "_LIB" /Fp"jpg___Win32_ReleaseUnicode/jpg.pch" /YX /Fo"jpg___Win32_ReleaseUnicode/" /Fd"jpg___Win32_ReleaseUnicode/" /FD /c 
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCAPIMIN.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCAPISTD.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCCOEFCT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCCOLOR.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCDCTMGR.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCHUFF.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCINIT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCMAINCT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCMARKER.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCMASTER.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCOMAPI.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCPARAM.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCPHUFF.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCPREPCT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCSAMPLE.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JCTRANS.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDAPIMIN.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDAPISTD.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDATADST.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDATASRC.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDCOEFCT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDCOLOR.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDDCTMGR.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDHUFF.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDINPUT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDMAINCT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDMARKER.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDMASTER.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDMERGE.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDPHUFF.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDPOSTCT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDSAMPLE.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JDTRANS.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JERROR.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JFDCTFLT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JFDCTFST.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JFDCTINT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JIDCTFLT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JIDCTFST.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JIDCTINT.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JIDCTRED.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JMEMMGR.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JMEMNOBS.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JQUANT1.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JQUANT2.C"
+"\\tsclient\D\Lib\Ultimate\Ultimate Toolbox\lib\JPEG\JPEGSRC6\JUTILS.C"
+]
+Creating command line "cl.exe @C:\DOCUME~1\XPMUser\LOCALS~1\Temp\RSP15.tmp" 
+Creating temporary file "C:\DOCUME~1\XPMUser\LOCALS~1\Temp\RSP16.tmp" with contents
+[
+/nologo /out:"..\libs\jpgru.lib" 
+".\jpg___Win32_ReleaseUnicode\JCAPIMIN.OBJ"
+".\jpg___Win32_ReleaseUnicode\JCAPISTD.OBJ"
+".\jpg___Win32_ReleaseUnicode\JCCOEFCT.OBJ"
+".\jpg___Win32_ReleaseUnicode\JCCOLOR.OBJ"
+".\jpg___Win32_ReleaseUnicode\JCDCTMGR.OBJ"
+".\jpg___Win32_ReleaseUnicode\JCHUFF.OBJ"
+".\jpg___Win32_ReleaseUnicode\JCINIT.OBJ"
+".\jpg___Win32_ReleaseUnicode\JCMAINCT.OBJ"
+".\jpg___Win32_ReleaseUnicode\JCMARKER.OBJ"
+".\jpg___Win32_ReleaseUnicode\JCMASTER.OBJ"
+".\jpg___Win32_ReleaseUnicode\JCOMAPI.OBJ"
+".\jpg___Win32_ReleaseUnicode\JCPARAM.OBJ"
+".\jpg___Win32_ReleaseUnicode\JCPHUFF.OBJ"
+".\jpg___Win32_ReleaseUnicode\JCPREPCT.OBJ"
+".\jpg___Win32_ReleaseUnicode\JCSAMPLE.OBJ"
+".\jpg___Win32_ReleaseUnicode\JCTRANS.OBJ"
+".\jpg___Win32_ReleaseUnicode\JDAPIMIN.OBJ"
+".\jpg___Win32_ReleaseUnicode\JDAPISTD.OBJ"
+".\jpg___Win32_ReleaseUnicode\JDATADST.OBJ"
+".\jpg___Win32_ReleaseUnicode\JDATASRC.OBJ"
+".\jpg___Win32_ReleaseUnicode\JDCOEFCT.OBJ"
+".\jpg___Win32_ReleaseUnicode\JDCOLOR.OBJ"
+".\jpg___Win32_ReleaseUnicode\JDDCTMGR.OBJ"
+".\jpg___Win32_ReleaseUnicode\JDHUFF.OBJ"
+".\jpg___Win32_ReleaseUnicode\JDINPUT.OBJ"
+".\jpg___Win32_ReleaseUnicode\JDMAINCT.OBJ"
+".\jpg___Win32_ReleaseUnicode\JDMARKER.OBJ"
+".\jpg___Win32_ReleaseUnicode\JDMASTER.OBJ"
+".\jpg___Win32_ReleaseUnicode\JDMERGE.OBJ"
+".\jpg___Win32_ReleaseUnicode\JDPHUFF.OBJ"
+".\jpg___Win32_ReleaseUnicode\JDPOSTCT.OBJ"
+".\jpg___Win32_ReleaseUnicode\JDSAMPLE.OBJ"
+".\jpg___Win32_ReleaseUnicode\JDTRANS.OBJ"
+".\jpg___Win32_ReleaseUnicode\JERROR.OBJ"
+".\jpg___Win32_ReleaseUnicode\JFDCTFLT.OBJ"
+".\jpg___Win32_ReleaseUnicode\JFDCTFST.OBJ"
+".\jpg___Win32_ReleaseUnicode\JFDCTINT.OBJ"
+".\jpg___Win32_ReleaseUnicode\JIDCTFLT.OBJ"
+".\jpg___Win32_ReleaseUnicode\JIDCTFST.OBJ"
+".\jpg___Win32_ReleaseUnicode\JIDCTINT.OBJ"
+".\jpg___Win32_ReleaseUnicode\JIDCTRED.OBJ"
+".\jpg___Win32_ReleaseUnicode\JMEMMGR.OBJ"
+".\jpg___Win32_ReleaseUnicode\JMEMNOBS.OBJ"
+".\jpg___Win32_ReleaseUnicode\JQUANT1.OBJ"
+".\jpg___Win32_ReleaseUnicode\JQUANT2.OBJ"
+".\jpg___Win32_ReleaseUnicode\JUTILS.OBJ"
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\XPMUser\LOCALS~1\Temp\RSP16.tmp"
+<h3>Output Window</h3>
+Compiling...
+JCAPIMIN.C
+JCAPISTD.C
+JCCOEFCT.C
+JCCOLOR.C
+JCDCTMGR.C
+JCHUFF.C
+JCINIT.C
+JCMAINCT.C
+JCMARKER.C
+JCMASTER.C
+JCOMAPI.C
+JCPARAM.C
+JCPHUFF.C
+JCPREPCT.C
+JCSAMPLE.C
+JCTRANS.C
+JDAPIMIN.C
+JDAPISTD.C
+JDATADST.C
+JDATASRC.C
+JDCOEFCT.C
+JDCOLOR.C
+JDDCTMGR.C
+JDHUFF.C
+JDINPUT.C
+JDMAINCT.C
+JDMARKER.C
+JDMASTER.C
+JDMERGE.C
+JDPHUFF.C
+JDPOSTCT.C
+JDSAMPLE.C
+JDTRANS.C
+JERROR.C
+JFDCTFLT.C
+JFDCTFST.C
+JFDCTINT.C
+JIDCTFLT.C
+JIDCTFST.C
+JIDCTINT.C
+JIDCTRED.C
+JMEMMGR.C
+JMEMNOBS.C
+JQUANT1.C
+JQUANT2.C
+JUTILS.C
+Creating library...
+
+
+
+<h3>Results</h3>
+jpgru.lib - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

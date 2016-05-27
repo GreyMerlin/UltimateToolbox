@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpuinf32", "Cpuinf32.vcxproj", "{A6D2E7E6-14B7-42DD-80B2-15DA65940AB1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpuinf32lib", "Cpuinf32lib\Cpuinf32lib.vcxproj", "{5463E098-68E5-4BF8-B0F9-7D6BB78949F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Template|Win32 = Template|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6D2E7E6-14B7-42DD-80B2-15DA65940AB1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A6D2E7E6-14B7-42DD-80B2-15DA65940AB1}.Debug|Win32.Build.0 = Debug|Win32
+		{A6D2E7E6-14B7-42DD-80B2-15DA65940AB1}.Release|Win32.ActiveCfg = Release|Win32
+		{A6D2E7E6-14B7-42DD-80B2-15DA65940AB1}.Release|Win32.Build.0 = Release|Win32
+		{A6D2E7E6-14B7-42DD-80B2-15DA65940AB1}.Template|Win32.ActiveCfg = Release|Win32
+		{A6D2E7E6-14B7-42DD-80B2-15DA65940AB1}.Template|Win32.Build.0 = Release|Win32
+		{5463E098-68E5-4BF8-B0F9-7D6BB78949F1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5463E098-68E5-4BF8-B0F9-7D6BB78949F1}.Debug|Win32.Build.0 = Debug|Win32
+		{5463E098-68E5-4BF8-B0F9-7D6BB78949F1}.Release|Win32.ActiveCfg = Release|Win32
+		{5463E098-68E5-4BF8-B0F9-7D6BB78949F1}.Release|Win32.Build.0 = Release|Win32
+		{5463E098-68E5-4BF8-B0F9-7D6BB78949F1}.Template|Win32.ActiveCfg = Template|Win32
+		{5463E098-68E5-4BF8-B0F9-7D6BB78949F1}.Template|Win32.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
